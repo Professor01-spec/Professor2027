@@ -1,0 +1,13 @@
+{
+  "name": "Mission 2027 — Professor's Command Ledger",
+  "short_name": "Mission2027",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0f1a17",
+  "theme_color": "#0f1a17",
+  "description": "UPSC Mains 2027 daily study command ledger — schedule, tests, reviews, and AI coaching.",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

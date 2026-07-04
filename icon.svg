@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#0f1a17"/>
+  <rect x="26" y="26" width="460" height="460" fill="none" stroke="#b98a3d" stroke-width="10"/>
+  <text x="256" y="240" font-family="Georgia, 'Times New Roman', serif" font-size="150" fill="#f4efe4" text-anchor="middle">M</text>
+  <text x="256" y="340" font-family="Georgia, 'Times New Roman', serif" font-size="72" fill="#b98a3d" text-anchor="middle">2027</text>
+</svg>
